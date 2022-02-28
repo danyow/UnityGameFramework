@@ -1,9 +1,9 @@
 {
-  "name": "com.jiangyin.gameframework",
+  "name": "com.jiangyin.gameframework.latest",
   "displayName": "Game Framework",
   "category": "Game Framework",
   "description": "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
-  "version": "2021.05.31",
+  "version": "2022.1.1",
   "unity": "2017.1",
   "keywords": [
     "Game Framework"
@@ -24,7 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:EllanJiang/UnityGameFramework.git",
-    "revision": "9e04764c9098106a83b5110923d4acf1b1a13344"
+    "url": "git@github.com:danyow/UnityGameFramework.git"
   }
 }
